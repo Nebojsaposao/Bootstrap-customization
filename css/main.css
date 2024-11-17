@@ -1,0 +1,9 @@
+.btn{
+  background-color: aquamarine;
+  border: 2px solid rgb(172, 53, 53);
+  color: blueviolet;
+}
+.btn:hover{
+  background-color: black;
+  color: rgb(141, 43, 43);
+}
